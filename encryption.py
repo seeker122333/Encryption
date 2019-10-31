@@ -25,7 +25,7 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}SeeKeR
+   HZM            MMMM    {}Coded by {}: {}SeeKer
 {}   FqM            MMMM    {}FB       {}: {}fb.com/SeeKeR
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
